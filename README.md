@@ -31,3 +31,12 @@ E aguarde a mensagem de conclusão da conversão
 
 O arquivo PDF deve estar na mesma pasta
 que os arquivos baixados atraves do git clone
+
+
+## Qual a vantagem de se usar um conversor de PDF para texto?.
+
+Podermos usar somente o texto do
+arquivo e isso tem diversos benefícios para ser usado
+depois como pegar esse texto e converter em mp3
+ou mesmo usar um narrador, ou alguma necessidade
+pessoal.
