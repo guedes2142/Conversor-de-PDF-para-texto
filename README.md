@@ -1,3 +1,8 @@
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/guedes2142/Conversor-de-PDF-para-texto/main/Screenshot%20from%202023-03-22%2015-28-26.png)
+
 ## Como usar
 ```Python
 git clone
