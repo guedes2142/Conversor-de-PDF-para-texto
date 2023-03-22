@@ -9,6 +9,10 @@ git clone
 
 https://github.com/guedes2142/Conversor-de-PDF-para-texto.git
 
+instale a biblioteca PyPDF2
+
+>>> pip install PyPDF2
+
 abra o terminal
 
 Navegue até a pasta do arquivo
