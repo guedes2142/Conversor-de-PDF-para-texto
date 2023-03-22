@@ -4,24 +4,24 @@
 ![App Screenshot](https://raw.githubusercontent.com/guedes2142/Conversor-de-PDF-para-texto/main/Screenshot%20from%202023-03-22%2015-28-26.png)
 
 ## Como usar
-```Python
-git clone
 
-https://github.com/guedes2142/Conversor-de-PDF-para-texto.git
+abra o terminal
+
+Baixe o programa
+
+>> git clone https://github.com/guedes2142/Conversor-de-PDF-para-texto.git
 
 instale a biblioteca PyPDF2
 
 >>> pip install PyPDF2
 
-abra o terminal
-
 Navegue até a pasta do arquivo
 
-cd Conversor-de-PDF-para-texto
+>>> cd Conversor-de-PDF-para-texto
 
 Digite o comando
 
-python3 pdf_to_text.py 
+>>> python3 pdf_to_text.py 
 
 para usúarios de Windows
 
